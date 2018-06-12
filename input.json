@@ -1,0 +1,17 @@
+{
+	"apps": [
+		{
+			"auth":"q9mT9jczTO3a8CMgqO9PFWoI2LYY4QTxFd2JFf6oc9ChUZB2pL1fAleSo5jAEeNhlJfrsnHkQlOuaViFRo5v",
+			"application":["384FF-FA7C3"],
+		},
+		{
+			"auth":"sU6RBbLEHp8HFrtO093lHeeD8nzgMg39eqU4lHVbyJxqzA7wVqVAn2cpmiObJ0l9qhsRdP7DUgN5LPrRq5vA",
+			"application":["25FAA-1ADDC"],
+		}
+	],
+	"send_date":"now",
+	"content":"content of notification",
+	"title":"title of notification",
+	"custom_data": "custom_data.txt",
+	"users":"users.txt"
+}
