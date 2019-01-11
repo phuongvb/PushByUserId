@@ -5,13 +5,13 @@ Files:
 	+ application: it is called AppID. It is below name of application in homepage
 	+ auth: open application, on left panel, select API Access, it is token field
 
-	OnMe-iPhone-QA
+	xxx
 	{
 		"auth":"sU6RBbLEHp8HFrtO093lHeeD8nzgMg39eqU4lHVbyJxqzA7wVqVAn2cpmiObJ0l9qhsRdP7DUgN5LPrRq5vA",
 		"application":["25FAA-1ADDC"],
 	}
 
-	ViettelTV-iPhone-QA
+	yyy
 	{
 		"auth":"q9mT9jczTO3a8CMgqO9PFWoI2LYY4QTxFd2JFf6oc9ChUZB2pL1fAleSo5jAEeNhlJfrsnHkQlOuaViFRo5v",
 		"application":["384FF-FA7C3"],
